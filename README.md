@@ -5,5 +5,5 @@ Here we have provided prices of flight tickets for various airlines between the 
 #### Data Source:-
 https://www.machinehack.com/course/predict-the-flight-ticket-price-hackathon/
 
-### 
+
 Here, I have tried each ML algorith & computed Root Mean Squared error (RMSE) and R Squared, the model which gives low RMSE & best R squred, can be considered.
